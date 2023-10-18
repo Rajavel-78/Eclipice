@@ -10,6 +10,7 @@ public class AddDigite {
 	
 	private void operation() {
 		int number = 38;
+                var aa=0;
 		boolean isValied = true;
 		int total = 0;
 		while (isValied) {
